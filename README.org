@@ -2,7 +2,28 @@
 
 **WIP**
 
+* Directory Structure
+
+
++ Templates
+  - Docs : https://github.com/GTrunSec/org-mode-book-template
+  - cells : https://github.com/GTrunSec/DevSecOps-Cells-Lab
+  - infra : https://github.com/GTrunSec/cells-infra/tree/main
+  - notebooks: https://github.com/GTrunSec/pluto-notebook-template
+
+#+begin_src sh :async :exports both :results output
+.
+├── notebooks
+├── docs/*
+├── cells
+├── infra
+#+end_src
+
+
+
 * Shoulders
 
 ** Inspiration & Art
- https://plutocon2021-demos.netlify.app/
+
+- https://kroki.io/
+- https://plutocon2021-demos.netlify.app/
