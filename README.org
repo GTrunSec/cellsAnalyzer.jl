@@ -1,0 +1,8 @@
+#+title: Readme
+
+**WIP**
+
+* Shoulders
+
+** Inspiration & Art
+ https://plutocon2021-demos.netlify.app/
