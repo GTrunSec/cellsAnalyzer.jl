@@ -19,12 +19,12 @@ makedocs(;
         "Introduction" => "index.md",
         "Usage" => "usage.md",
     ],
-    repo="https://github.com/GTrunSec/pluto-notebook-template/blob/{commit}{path}#L{line}",
-    sitename="pluto-notebook-template",
-    authors = "GuangTao Zhang and contributors: https://github.com/GTrunSec/pluto-notebook-template/graphs/contributors"
+    repo="https://github.com/GTrunSec/cellsDevOps.jl/blob/{commit}{path}#L{line}",
+    sitename="cellsDevOps.jl",
+    authors = "GuangTao Zhang and contributors: https://github.com/GTrunSec/cellsDevOps.jl/graphs/contributors"
 )
 
 deploydocs(;
-    repo="github.com/GTrunSec/pluto-notebook-template",
+    repo="github.com/GTrunSec/cellsDevOps.jl",
     devbranch = "main"
 )
