@@ -1,4 +1,4 @@
-module cellsDevOps
+module cellsAnalyzer
 
 greet() = print("Hello World!")
 

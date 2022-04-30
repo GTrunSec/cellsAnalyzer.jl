@@ -1,6 +1,6 @@
-using cellsDevOps
+using cellsAnalyzer
 using Test
 
-@testset "cellsDevOps.jl" begin
+@testset "cellsAnalyzer.jl" begin
     # Write your tests here.
 end

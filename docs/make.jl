@@ -19,12 +19,12 @@ makedocs(;
         "Introduction" => "index.md",
         "Usage" => "usage.md",
     ],
-    repo="https://github.com/GTrunSec/cellsDevOps.jl/blob/{commit}{path}#L{line}",
-    sitename="cellsDevOps.jl",
-    authors = "GuangTao Zhang and contributors: https://github.com/GTrunSec/cellsDevOps.jl/graphs/contributors"
+    repo="https://github.com/GTrunSec/cellsAnalyzer.jl/blob/{commit}{path}#L{line}",
+    sitename="cellsAnalyzer.jl",
+    authors = "GuangTao Zhang and contributors: https://github.com/GTrunSec/cellsAnalyzer.jl/graphs/contributors"
 )
 
 deploydocs(;
-    repo="github.com/GTrunSec/cellsDevOps.jl",
+    repo="github.com/GTrunSec/cellsAnalyzer.jl",
     devbranch = "main"
 )
